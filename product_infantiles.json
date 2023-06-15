@@ -7,9 +7,9 @@
       "Precio": "$ 45.00",
       "Cantidad_stock": 10,
       "Tags": "Onesie Babys",
-      "Description": "",
-      "Informacion Adicional": "",
-      "Valoracion": 4,
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "Informacion_Adicional": "Ultrices in iaculis nunc sed augue lacus viverra. Ullamcorper malesuada proin libero nunc consequat interdum varius sit. Varius duis at consectetur lorem donec. Dignissim suspendisse in est ante in nibh mauris cursus. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper malesuada. Tincidunt ornare massa eget egestas purus viverra accumsan in. Eget sit amet tellus cras adipiscing enim. Augue ut lectus arcu bibendum. In nulla posuere sollicitudin aliquam. Suspendisse potenti nullam ac tortor. Massa tincidunt dui ut ornare lectus sit. Cras adipiscing enim eu turpis. At tellus at urna condimentum mattis pellentesque. Nullam non nisi est sit amet. Tortor pretium viverra suspendisse potenti nullam ac tortor vitae purus. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Habitant morbi tristique senectus et. Vestibulum morbi blandit cursus risus at ultrices. Etiam tempor orci eu lobortis elementum.",
+      "Valoracion": 3,
       "SKU": "001",
       "Img1": "for babies/for-babies-1-580x870.jpg",
       "Img2": "for babies/for-babies-1-1-580x870.jpg"
@@ -69,9 +69,7 @@
       "SKU": "005",
       "Img1": "for babies/for-babies-5-580x870.jpg",
       "Img2": "for babies/for-babies-5-1-580x870.jpg"
-    }
-  ,
-  
+    },
     {
       "id": 6,
       "nombre": "White Dress",
@@ -126,8 +124,218 @@
       "SKU": "009",
       "Img1": "for girls/girls-3-1-580x870.jpg",
       "Img2": "for babies/girls-3-2-580x870.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "blue shirt",
+      "Categoria": "For boys",
+      "Precio": "$ 15.00",
+      "Cantidad_stock": 40,
+      "Tags": "Shirt Boys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "010",
+      "Img1": "for boys/boys-1-580x870.jpg",
+      "Img2": "for boys/boys-1-1-580x870.jpg"
+    },
+    {
+      "id": 11,
+      "nombre": "White Jumper",
+      "Categoria": "For boys",
+      "Precio": "$ 25.00",
+      "Cantidad_stock": 10,
+      "Tags": "Jumper Boys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "011",
+      "Img1": "for boys/boys-1-580x870(1).jpg"
+    },
+    {
+      "id": 12,
+      "nombre": "Blue Coat",
+      "Categoria": "For boys",
+      "Precio": "$ 24.00",
+      "Cantidad_stock": 18,
+      "Tags": "Coat Boys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 3,
+      "SKU": "012",
+      "Img1": "for boys/boys-2-1-580x870.jpg"
+    },
+    {
+      "id": 13,
+      "nombre": "Rainbow Pillow",
+      "Categoria": "For home",
+      "Precio": "$ 35.00",
+      "Cantidad_stock": 18,
+      "Tags": "Pillow Home",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 5,
+      "SKU": "013",
+      "Img1": "for home/for-home-1-580x870.jpg",
+      "Img2": "for home/for-home-1-1-580x870.jpg"
+    },
+    {
+      "id": 14,
+      "nombre": "Rabbit Bag",
+      "Categoria": "For home",
+      "Precio": "$ 24.00",
+      "Cantidad_stock": 0,
+      "Tags": "Rabbit Bag Home",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "014",
+      "Img1": "for home/for-home-2-580x870.jpg",
+      "Img2": "for home/for-home-2-2-580x870.jpg"
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
     }
-  ,
+  ],
+  "babys": [
+    {
+      "id": 1,
+      "nombre": "Brow Onesie",
+      "Categoria": "For babys",
+      "Precio": "$ 45.00",
+      "Cantidad_stock": 10,
+      "Tags": "Onesie Babys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "001",
+      "Img1": "for babies/for-babies-1-580x870.jpg",
+      "Img2": "for babies/for-babies-1-1-580x870.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Pink Sweater",
+      "Categoria": "For babys",
+      "Precio": "$ 20.00",
+      "Cantidad_stock": 15,
+      "Tags": "Sweater Babys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 3,
+      "SKU": "002",
+      "Img1": "for babies/for-babies-2-580x870.jpg",
+      "Img2": "for babies/for-babies-2-1-580x870.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Pink Jumper",
+      "Categoria": "For babys",
+      "Precio": "$ 34.00",
+      "Cantidad_stock": 9,
+      "Tags": "Jumper Babys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "003",
+      "Img1": "for babies/for-babies-3-580x870.jpg",
+      "Img2": "for babies/for-babies-3-1-580x870.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "White Sweater",
+      "Categoria": "For babys",
+      "Precio": "$ 18.00",
+      "Cantidad_stock": 0,
+      "Tags": "Sweater Babys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "004",
+      "Img1": "for babies/for-babies-4-580x870.jpg",
+      "Img2": "for babies/for-babies-4-1-580x870.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Black Sweater",
+      "Categoria": "For babys",
+      "Precio": "$ 17.00",
+      "Cantidad_stock": 20,
+      "Tags": "Sweater Babys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "005",
+      "Img1": "for babies/for-babies-5-580x870.jpg",
+      "Img2": "for babies/for-babies-5-1-580x870.jpg"
+    }
+  ],
+  "girls": [
+    {
+      "id": 6,
+      "nombre": "White Dress",
+      "Categoria": "For babys",
+      "Precio": "$ 21.00",
+      "Cantidad_stock": 34,
+      "Tags": "Dress Babys",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 5,
+      "SKU": "006",
+      "Img1": "for girls/girls-1-1-580x870.jpg",
+      "Img2": "for girls/girls-1-2-580x870.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Blue Blouse",
+      "Categoria": "For girls",
+      "Precio": "$ 15.00",
+      "Cantidad_stock": 40,
+      "Tags": "Blouse Girls",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 4,
+      "SKU": "007",
+      "Img1": "for girls/girls-2-2-580x870.jpg",
+      "Img2": "for girls/girls-2-3-580x870.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Pink Coat",
+      "Categoria": "For girls",
+      "Precio": "$ 26.00",
+      "Cantidad_stock": 15,
+      "Tags": "Coat Girls",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 5,
+      "SKU": "008",
+      "Img1": "for girls/girls-2-580x870.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "jean vest",
+      "Categoria": "For girls",
+      "Precio": "$ 15.00",
+      "Cantidad_stock": 40,
+      "Tags": "jean vest Girls",
+      "Description": "",
+      "Informacion Adicional": "",
+      "Valoracion": 5,
+      "SKU": "009",
+      "Img1": "for girls/girls-3-1-580x870.jpg",
+      "Img2": "for girls/girls-3-2-580x870.jpg"
+    },
+    {
+      "id": 10
+    }
+  ],
+  "boys": [
     {
       "id": 10,
       "nombre": "blue shirt",
@@ -168,8 +376,8 @@
       "SKU": "012",
       "Img1": "for boys/boys-2-1-580x870.jpg"
     }
-  ,
-  
+  ],
+  "home": [
     {
       "id": 13,
       "nombre": "Rainbow Pillow",
@@ -198,209 +406,5 @@
       "Img1": "for home/for-home-2-580x870.jpg",
       "Img2": "for home/for-home-2-2-580x870.jpg"
     }
-  
-  ],
-  
-    "babys": [
-      {
-        "id": 1,
-        "nombre": "Brow Onesie",
-        "Categoria": "For babys",
-        "Precio": "$ 45.00",
-        "Cantidad_stock": 10,
-        "Tags": "Onesie Babys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "001",
-        "Img1": "for babies/for-babies-1-580x870.jpg",
-        "Img2": "for babies/for-babies-1-1-580x870.jpg"
-      },
-      {
-        "id": 2,
-        "nombre": "Pink Sweater",
-        "Categoria": "For babys",
-        "Precio": "$ 20.00",
-        "Cantidad_stock": 15,
-        "Tags": "Sweater Babys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 3,
-        "SKU": "002",
-        "Img1": "for babies/for-babies-2-580x870.jpg",
-        "Img2": "for babies/for-babies-2-1-580x870.jpg"
-      },
-      {
-        "id": 3,
-        "nombre": "Pink Jumper",
-        "Categoria": "For babys",
-        "Precio": "$ 34.00",
-        "Cantidad_stock": 9,
-        "Tags": "Jumper Babys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "003",
-        "Img1": "for babies/for-babies-3-580x870.jpg",
-        "Img2": "for babies/for-babies-3-1-580x870.jpg"
-      },
-      {
-        "id": 4,
-        "nombre": "White Sweater",
-        "Categoria": "For babys",
-        "Precio": "$ 18.00",
-        "Cantidad_stock": 0,
-        "Tags": "Sweater Babys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "004",
-        "Img1": "for babies/for-babies-4-580x870.jpg",
-        "Img2": "for babies/for-babies-4-1-580x870.jpg"
-      },
-      {
-        "id": 5,
-        "nombre": "Black Sweater",
-        "Categoria": "For babys",
-        "Precio": "$ 17.00",
-        "Cantidad_stock": 20,
-        "Tags": "Sweater Babys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "005",
-        "Img1": "for babies/for-babies-5-580x870.jpg",
-        "Img2": "for babies/for-babies-5-1-580x870.jpg"
-      }
-    ],
-    "girls": [
-      {
-        "id": 6,
-        "nombre": "White Dress",
-        "Categoria": "For babys",
-        "Precio": "$ 21.00",
-        "Cantidad_stock": 34,
-        "Tags": "Dress Babys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 5,
-        "SKU": "006",
-        "Img1": "for girls/girls-1-1-580x870.jpg",
-        "Img2": "for girls/girls-1-2-580x870.jpg"
-      },
-      {
-        "id": 7,
-        "nombre": "Blue Blouse",
-        "Categoria": "For girls",
-        "Precio": "$ 15.00",
-        "Cantidad_stock": 40,
-        "Tags": "Blouse Girls",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "007",
-        "Img1": "for girls/girls-2-2-580x870.jpg",
-        "Img2": "for girls/girls-2-3-580x870.jpg"
-      },
-      {
-        "id": 8,
-        "nombre": "Pink Coat",
-        "Categoria": "For girls",
-        "Precio": "$ 26.00",
-        "Cantidad_stock": 15,
-        "Tags": "Coat Girls",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 5,
-        "SKU": "008",
-        "Img1": "for girls/girls-2-580x870.jpg"
-      },
-      {
-        "id": 9,
-        "nombre": "jean vest",
-        "Categoria": "For girls",
-        "Precio": "$ 15.00",
-        "Cantidad_stock": 40,
-        "Tags": "jean vest Girls",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 5,
-        "SKU": "009",
-        "Img1": "for girls/girls-3-1-580x870.jpg",
-        "Img2": "for girls/girls-3-2-580x870.jpg"
-      }
-    ],
-    "boys": [
-      {
-        "id": 10,
-        "nombre": "blue shirt",
-        "Categoria": "For boys",
-        "Precio": "$ 15.00",
-        "Cantidad_stock": 40,
-        "Tags": "Shirt Boys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "010",
-        "Img1": "for boys/boys-1-580x870.jpg",
-        "Img2": "for boys/boys-1-1-580x870.jpg"
-      },
-      {
-        "id": 11,
-        "nombre": "White Jumper",
-        "Categoria": "For boys",
-        "Precio": "$ 25.00",
-        "Cantidad_stock": 10,
-        "Tags": "Jumper Boys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "011",
-        "Img1": "for boys/boys-1-580x870(1).jpg"
-      },
-      {
-        "id": 12,
-        "nombre": "Blue Coat",
-        "Categoria": "For boys",
-        "Precio": "$ 24.00",
-        "Cantidad_stock": 18,
-        "Tags": "Coat Boys",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 3,
-        "SKU": "012",
-        "Img1": "for boys/boys-2-1-580x870.jpg"
-      }
-    ],
-    "home": [
-      {
-        "id": 13,
-        "nombre": "Rainbow Pillow",
-        "Categoria": "For home",
-        "Precio": "$ 35.00",
-        "Cantidad_stock": 18,
-        "Tags": "Pillow Home",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 5,
-        "SKU": "013",
-        "Img1": "for home/for-home-1-580x870.jpg",
-        "Img2": "for home/for-home-1-1-580x870.jpg"
-      },
-      {
-        "id": 14,
-        "nombre": "Rabbit Bag",
-        "Categoria": "For home",
-        "Precio": "$ 24.00",
-        "Cantidad_stock": 0,
-        "Tags": "Rabbit Bag Home",
-        "Description": "",
-        "Informacion Adicional": "",
-        "Valoracion": 4,
-        "SKU": "014",
-        "Img1": "for home/for-home-2-580x870.jpg",
-        "Img2": "for home/for-home-2-2-580x870.jpg"
-      }
-    ]
-  
+  ]
 }
